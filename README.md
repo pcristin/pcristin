@@ -5,8 +5,6 @@
 
 # Hi there, I’m pcristin
 
-I love turning playful ideas into solid code—whether it’s building a bridge between EVM and Monad, racing to snatch new tokens on PumpFun, or spinning up a Telegram bot to grab Instagram Reels. Felt in love with Go and quite good in Python, I containerize everything with Docker and back it all with PostgreSQL and Redis. Dive into my repos to see how I mix creativity with reliability.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
