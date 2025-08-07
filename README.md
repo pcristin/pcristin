@@ -31,11 +31,3 @@
 ## 📈 GitHub Stats
 
 ![pcristin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pcristin&show_icons=true&theme=radical)
-
----
-
-<p align="center">
-  <a href="https://github.com/pcristin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcristin&theme=dark" alt="🔥 GitHub Streak">
-  </a>
-</p>
